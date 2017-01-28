@@ -1,5 +1,5 @@
 [DEFAULT]
-consumerKey = LQGoImutMuJkQfWVCIykg5ueJ
-consumerSecret = nrBgo3cnFG3x5UgWRncZZ63w2qBT7KrIqkDQafaXHognSmD6eb
-accessToken = 1937839688-aOWFrYEO27vn3bwqACSyhgHiWej9yeCqIj9HI8g
-accessTokenSecret = K8HvqTaQ8Q6erR8HewXUhtXnae1klV0p8vgKT6vSv2oGe
+consumerKey = YOUR_CONSUMER_KEY
+consumerSecret = YOUR_CONSUMER_SECRET
+accessToken = YOUR_ACCESS_TOKEN
+accessTokenSecret = YOUR_ACCESS_TOKEN_SECRET
